@@ -7,7 +7,7 @@
     "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "build": "vite build --base=/wt-js-search-images/ --emptyOutDir",
+    "build": "vite build --base=/wt-js-search-images/",
     "preview": "vite preview"
   },
   "devDependencies": {
